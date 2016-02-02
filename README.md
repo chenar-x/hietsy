@@ -1,2 +1,2 @@
-# hietsy
-about diy and fun
+# Hietsy
+About DIV and Fun
